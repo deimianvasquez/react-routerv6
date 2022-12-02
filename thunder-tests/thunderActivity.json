@@ -1,0 +1,44 @@
+[
+  {
+    "_id": "701b7e30-a841-4475-a10d-fd02abe7d619",
+    "colId": "history",
+    "containerId": "",
+    "name": "https://rickandmortyapi.com/api/character",
+    "url": "https://rickandmortyapi.com/api/character",
+    "method": "GET",
+    "sortNum": 0,
+    "created": "2022-12-02T23:05:59.754Z",
+    "modified": "2022-12-02T23:05:59.754Z",
+    "headers": [],
+    "params": [],
+    "tests": []
+  },
+  {
+    "_id": "2e9b64cb-92c4-4423-b352-9083a919831c",
+    "colId": "history",
+    "containerId": "",
+    "name": "https://rickandmortyapi.com/api/character/1",
+    "url": "https://rickandmortyapi.com/api/character/1",
+    "method": "GET",
+    "sortNum": 0,
+    "created": "2022-12-02T23:06:32.022Z",
+    "modified": "2022-12-02T23:06:32.022Z",
+    "headers": [],
+    "params": [],
+    "tests": []
+  },
+  {
+    "_id": "de06edcd-3c0f-46fc-b085-33efd5c4a16e",
+    "colId": "history",
+    "containerId": "",
+    "name": "https://rickandmortyapi.com/api/character/15",
+    "url": "https://rickandmortyapi.com/api/character/15",
+    "method": "GET",
+    "sortNum": 0,
+    "created": "2022-12-02T23:06:40.096Z",
+    "modified": "2022-12-02T23:06:40.096Z",
+    "headers": [],
+    "params": [],
+    "tests": []
+  }
+]
